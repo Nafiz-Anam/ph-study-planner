@@ -1,0 +1,6 @@
+[submodule "ph-study-routine-client"]
+	path = ph-study-routine-client
+	url = https://github.com/Nafiz-Anam/ph-study-routine-client
+[submodule "ph-study-routine-server"]
+	path = ph-study-routine-server
+	url = https://github.com/Nafiz-Anam/ph-study-routine-server
