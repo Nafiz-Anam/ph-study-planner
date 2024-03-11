@@ -73,3 +73,6 @@ This algorithm ensures a balanced and realistic study schedule, accommodating ex
     - Frontend: `npm run dev` within the `/client` directory.
 4. **Access the application**: Open `http://localhost:3000` in your web browser for **frontend**. And `http://localhost:5000/api/v1` for **backend**.
 
+## API Collection 👇
+
+https://documenter.getpostman.com/view/30501718/2sA2xh1Xnm
