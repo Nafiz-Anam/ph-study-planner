@@ -4,6 +4,10 @@
 
 The Study Routine Planner is designed to help students effectively manage their study time alongside other commitments such as classes, work, and personal activities. The primary goal is to maximize study effectiveness by allocating study tasks into a weekly schedule based on task priority and available time slots, ensuring a balanced and achievable study plan.
 
+## Demo login 
+    - ***Email***: nafiz.anam002@gmail.com
+    - ***Password***: 123456
+
 ## Architecture Overview
 
 The Study Routine Planner is built on a microservices architecture, utilizing a React-based frontend for user interaction and a Node.js backend for handling the core logic and database interactions. The system calculates available study times by subtracting predefined commitments from a full week's schedule, sorts study tasks by priority and duration, and then allocates these tasks into the calculated available time slots.
